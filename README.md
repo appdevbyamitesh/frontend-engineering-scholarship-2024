@@ -1,4 +1,4 @@
-# 🌟 Frontend Engineering Scholarship Application by Amitesh Mani Tiwari - 2024 🌟
+# 🌟 Frontend Engineering Scholarship Application by [Amitesh Mani Tiwari](https://x.com/geekyamitesh03) 🌟
 
 If you have any doubt, please feel free to ping me on [LinkedIn DM](https://www.linkedin.com/in/geekyamitesh/).
 
