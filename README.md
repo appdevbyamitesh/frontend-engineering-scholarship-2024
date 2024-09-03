@@ -4,6 +4,13 @@ If you have any doubt, please feel free to ping me on [LinkedIn DM](https://www.
 
 Welcome to the Frontend Engineering Scholarship 2024 repository! This repository is designed for students to submit their HTML, CSS, and JavaScript projects as part of the scholarship application process. Please carefully read the project ideas and submission guidelines below before submitting your projects.
 
+## 🎁 What You Will Get
+
+The top 3 performers in this scholarship will receive:
+
+1. **Free Access to 3 Premium Courses on [Namaste Dev Reactjs By Akshay Saini](https://namastedev.com/learn/namaste-react)**: These courses will help you advance your frontend engineering skills.
+2. **Mentorship from Top Industry Professionals**: Get personalized guidance from mentors at Google, Upstox, Oracle, Paytm, and Amazon to help you prepare for interviews and boost your career prospects.
+
 ### 📅 Deadline:
 All project submissions must be made by **15th September 2024**.
 
